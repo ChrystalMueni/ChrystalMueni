@@ -1,5 +1,6 @@
 # 💫 About Me:
-# Hi, I'm Pauline<br><br>💻 Full Stack Software Developer  <br>🌍 Passionate about building web and android applications🚀 Interested in eCommerce systems, backend architecture, and scalable apps <br><br> 📊 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrystalMueni&show_icons=true)<br><br>📫Connect With Me<br><br>- Email: paulinemuenichege@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/pauline-chege-57079833a/<br>
+# Hi, I'm Pauline<br><br🚀 Full Stack Developer<br>| 📊 Data Analyst  | 💡 Tech Enthusiast
+Building websites and Android applications.<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrystalMueni&show_icons=true)<br><br>📫Connect With Me<br><br>- Email: paulinemuenichege@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/pauline-chege-57079833a/<br>
 
 
 # 💻 Tech Stack:
